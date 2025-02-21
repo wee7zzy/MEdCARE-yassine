@@ -32,7 +32,7 @@
                  <label class="block text-gray-700">Motif</label>
                  <textarea name="motif" required class="w-full p-2 border rounded-md"></textarea>
                 </div>
-            <button type="submit" class="bg-yellow-600 text-white px-4 py-2 rounded-md">Modifier</button>
+            <button type="submit" class="bg-yellow-600 text-white px-4 py-2 rounded-md">OK</button>
         </form>
         <form action="AnnulerServlet" method="post" class="mt-4">
             <input type="hidden" name="username">

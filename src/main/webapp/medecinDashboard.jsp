@@ -34,7 +34,7 @@
                     <td class="border border-gray-300 p-2">21/02/2025</td>
                     <td class="border border-gray-300 p-2">14:00</td>
                     <td class="border border-gray-300 p-2">
-                        <button class="bg-blue-500 text-white px-3 py-1 rounded-md">Modifier</button>
+                        <a   class="bg-blue-500 text-white px-3 py-1 rounded-md">Modifier</a>
                         <button class="bg-red-500 text-white px-3 py-1 rounded-md ml-2">Annuler</button>
                     </td>
                 </tr>
